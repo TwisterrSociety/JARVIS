@@ -1,0 +1,1 @@
+{"id": "SCH_c168a9", "kode": "DASPROG", "nama": "DASAR PEMROGRAMAN", "hari": "kamis", "jam": "15:00-16:00", "ruang": "701", "dosen_id": "234"}

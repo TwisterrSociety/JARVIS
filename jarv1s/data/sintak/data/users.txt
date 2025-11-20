@@ -1,0 +1,4 @@
+username,password,role
+username,password,role
+admin,admin123,admin
+dosen1,dosen123,dosen

@@ -1,0 +1,4 @@
+{"raw": "nim|tahun|jumlah|terbayar|status"}
+{"nim": "123", "status": "Belum Lunas"}
+{"nim": "456", "nominal": "17000000", "terbayar": "0", "status": "Belum Lunas"}
+{"nim": "J040325115", "nominal": 17000000.0, "terbayar": 17000000.0, "status": "Lunas"}

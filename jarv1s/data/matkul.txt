@@ -1,0 +1,1 @@
+{"kode": "DASPROG", "nama": "DASAR PEMROGRAMAN", "assigned_dosen": ["0511"]}

@@ -1,0 +1,2 @@
+nim,nama,kelas,jurusan
+J0567,Misael,TPL B1,TPL

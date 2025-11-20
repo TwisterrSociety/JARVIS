@@ -1,0 +1,6 @@
+SEM | Mata Kuliah | Nilai | SKS
+1 | DASPROG | 95.0 | 3.0
+1 | MATEMATIKA | 100.0 | 3.0
+
+Total SKS: 6.0
+IPK: 97.5

@@ -1,0 +1,1 @@
+Folder ini digunakan untuk menyimpan hasil export laporan dalam format .txt

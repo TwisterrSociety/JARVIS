@@ -1,0 +1,1 @@
+{"id_tugas":"TUG001","nim":"123","jawaban":"isi jawaban","waktu":"2025-01-19 14:22","nilai":"-"}

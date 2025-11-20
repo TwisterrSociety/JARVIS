@@ -1,0 +1,7 @@
+id|role_or_all|title|message|date|is_read
+NOTB73J9T|all|SEMINAR PROPOSAL|JANGAN LUPA DATANG YAH|2025-11-12|0
+{"id": "NOTIF_6f8b17", "role": "mahasswa", "title": "HAHA", "message": "HAHA", "date": "2025-11-17"}
+{"id": "NOTIF_6c442f", "role": "all", "pesan": "HAHA", "tanggal": "2025-11-18"}
+{"id": "NOTIF_b5c57602", "role": "all", "pesan": "haha", "tanggal": "2025-11-18"}
+{"id": "NOTIF_ea2bdc", "role": "all", "pesan": "haha", "tanggal": "2025-11-19"}
+{"id": "NOTIF_874d2d", "role": "all", "pesan": "HAHA", "tanggal": "2025-11-19"}

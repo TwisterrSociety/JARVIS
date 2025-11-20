@@ -1,0 +1,2 @@
+{"id_tugas": "89c902a4", "mata_kuliah": "MATEMATIKA", "dosen_id": "234", "tugas": "jumlahan", "deskripsi": "jumlah", "deadline": "2025-11-2", "status": "Belum"}{"id_tugas": "56d811bc", "mata_kuliah": "DASPROG", "dosen_id": "234", "tugas": "", "deskripsi": "", "deadline": "", "status": "Belum"}
+{"id_tugas": "TUG_582ec6", "mata_kuliah": "DASPROG", "dosen_id": "234", "judul": "MEMBUAT FLE C++", "deskripsi": "MEMBUAT FLE C++", "deadline": "2025-11-25", "created_at": "2025-11-20T20:33:42"}

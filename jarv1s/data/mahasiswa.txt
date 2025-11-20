@@ -1,0 +1,2 @@
+{"raw": "nim|nama|kelas|jurusan"}
+{"nim": "J040325115", "nama": "RDZQ BADARUDDN", "kelas": "TPL B1", "jurusan": "TEKNOLOGI REKAYASA PERANGKAT LUNAK"}
