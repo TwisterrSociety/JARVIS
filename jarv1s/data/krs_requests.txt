@@ -1,2 +1,0 @@
-nim|semester|list_mk|status
-789|3|ko|Pending

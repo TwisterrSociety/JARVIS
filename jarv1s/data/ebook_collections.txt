@@ -1,5 +1,0 @@
-BAR001|9780131103627|Perpustakaan UTama|DapatDipinjam|Available
-BAR002|9780201616224|Lantai 2 Perpus|DapatDipinjam|Available
-BAR003|9781491957660|E-Library|Tidak|Available
-BAR004|9780132350884|Lantai 1 Perpus|DapatDipinjam|CheckedOut
-BAR005|9780262033848|Referensi Khusus|DapatDipinjam|Available

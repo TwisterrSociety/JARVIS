@@ -1,9 +1,0 @@
-9780131103627|The C Programming Language|2nd|Prentice Hall 1988|005.13 C|English|Programming
-9780201616224|The Pragmatic Programmer|1st|Addison-Wesley 1999|005.1 P|English|Software Engineering
-9781491957660|Fluent Python|1st|O'Reilly 2015|005.133 F|English|Python
-9780132350884|Clean Code|1st|Prentice Hall 2008|005.1 CLC|English|Software Engineering
-9780262033848|Introduction to Algorithms|3rd|MIT Press 2009|005.1 I|English|Algorithms
-{"isbn": "79", "judul": "CODE", "edisi": "2025", "publikasi": "2025", "nomor_panggil": "0765", "bahasa": "MALAY", "subjek": "CODE"}
-{"id": "BOOK_fcce58", "judul": "CODE PYTHON", "penulis": "OMAR"}
-{"id": "BOOK_6f6140", "judul": "CODE C#", "penulis": "OMAR", "edisi": "2025", "publikasi": "2025", "isbn": "456", "callno": "07", "bahasa": "ENGLSH", "subjek": "CODE C#", "tgl_input": "2025-11-18"}
-{"id": "BOOK_337c54", "judul": "HAH", "penulis": "HAHA", "isbn": "HAHA", "publikasi": "HAHA", "nomor_panggil": "HAHA", "bahasa": "HAHA", "subjek": "HAHA", "edisi": "HAHA"}

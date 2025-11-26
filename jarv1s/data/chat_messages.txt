@@ -1,5 +1,0 @@
-{"group_id": "GRUP_30da52", "sender": "J040325115", "message": "haha", "ts": "2025-11-20T21:29:04"}
-{"group_id": "GRUP_30da52", "sender": "234", "message": "p", "ts": "2025-11-20T21:29:14"}
-{"group_id": "GRUP_30da52", "sender": "J040325115", "message": "h", "ts": "2025-11-20T21:34:05"}
-{"group_id": "GRUP_30da52", "sender": "234", "message": "a", "ts": "2025-11-20T21:34:07"}
-{"group_id": "GRUP_30da52", "sender": "J040325115", "message": "awowow", "ts": "2025-11-20T21:34:14"}

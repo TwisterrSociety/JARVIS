@@ -1,1 +1,0 @@
-{"raw": "{\"raw\": \"route_id|from|to|departure_time|arrival_time|status|keterangan\"}{\"id\": \"BUS_eae3fe\", \"from\": \"Cilebut\", \"to\": \"Dramaga\", \"departure\": \"18:00\", \"arrival\": \"19:00\", \"status\": \"OnTime\"}"}

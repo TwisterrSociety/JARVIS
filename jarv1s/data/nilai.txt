@@ -1,4 +1,0 @@
-nim|mata_kuliah|nilai|sks
-789|Bahasa Indonesia|100|3
-{"nim": "J040325115", "mata_kuliah": "DASPROG", "nilai": "95", "sks": "3", "semester": "1"}
-{"nim": "J040325115", "mata_kuliah": "MATEMATIKA", "nilai": "100", "sks": "3", "semester": "1"}

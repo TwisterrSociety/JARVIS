@@ -1,5 +1,0 @@
-id_bim|nim|dosen_id|topik|tanggal_request|status|catatan
-BIM204145|789|789|yu|2025-11-12|Pending|
-{"id": "BIM_b7a75a", "nim": "123", "topik": "arya", "dosen_id": "456", "catatan": "tolong", "tanggal": "2025-11-17", "status": "Menunggu"}
-{"id": "BIM_1a5a3f", "nim": "J040325115", "topik": "HA", "dosen_id": "234", "catatan": "H", "tanggal": "2025-11-20", "status": "Menunggu"}
-{"id": "BIM_6cdafe", "nim": "J040325115", "topik": "ha", "dosen_id": "234", "catatan": "h", "tanggal": "2025-11-20", "status": "Menunggu"}

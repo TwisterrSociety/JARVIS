@@ -1,7 +1,0 @@
-nim|mata_kuliah|tanggal|status|keterangan
-789|Bahasa Indonesia|2025-11-12|Hadir|Hadir
-{"nim": "012543", "mata_kuliah": "DASPROG", "tanggal": "2025-11-19", "status": "Hadir", "keterangan": "Ada"}
-{"nim": "J040325115", "mata_kuliah": "DASPROG", "tanggal": "2025-11-19", "status": "Hadir", "keterangan": "Ada"}
-{"nim": "", "matkul": "", "tanggal": "2025-11-20", "status": ""}
-{"nim": "", "mata_kuliah": "DASPROG", "tanggal": "2025-11-20", "status": "", "keterangan": ""}
-{"nim": "\u001b[B\u001b[D", "mata_kuliah": "DASPROG", "tanggal": "2025-11-20", "status": "", "keterangan": ""}

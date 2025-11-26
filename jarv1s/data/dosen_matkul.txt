@@ -1,3 +1,0 @@
-{"dosen":"234", "matkul":"DASPROG"}
-{"dosen":"234", "matkul":"MATEMATIKA"}
-{"dosen":"0551", "matkul":"DASPROG"}

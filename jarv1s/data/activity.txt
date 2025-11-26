@@ -1,2 +1,0 @@
-{"user": "234", "action": "create_attendance:ATT_c89fad", "ts": "2025-11-20T10:06:12"}
-{"user": "J040325115", "action": "submit_tugas:TUG_582ec6", "ts": "2025-11-20T20:34:04"}
