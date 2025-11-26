@@ -1,0 +1,3 @@
+{"id": "ATT_c89fad", "mata_kuliah": "DASPROG", "dosen_id": "234", "date": "2025-11-20", "note": "GEDUNG CA", "created_at": "2025-11-20T10:06:12"}
+{"id": "ATT_77872d", "mata_kuliah": "DASPROG", "dosen_id": "234", "date": "2025-11-23", "note": "CA B01", "created_at": "2025-11-23T23:16:18"}
+{"id": "ATT_93ee53", "mata_kuliah": "DASPROG", "dosen_id": "234", "date": "2025-11-24", "note": "701", "created_at": "2025-11-24T03:17:48"}

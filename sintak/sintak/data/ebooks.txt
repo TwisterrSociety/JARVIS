@@ -1,0 +1,1 @@
+{"isbn":"9780131103627","judul":"The C Programming Language","edisi":"2nd","publikasi":"1988","callno":"005.13 C","bahasa":"English","subjek":"Programming"}

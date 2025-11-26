@@ -1,0 +1,13 @@
+id|role_or_all|title|message|date|is_read
+NOTB73J9T|all|SEMINAR PROPOSAL|JANGAN LUPA DATANG YAH|2025-11-12|0
+{"id": "NOTIF_6f8b17", "role": "mahasswa", "title": "HAHA", "message": "HAHA", "date": "2025-11-17"}
+{"id": "NOTIF_6c442f", "role": "all", "pesan": "HAHA", "tanggal": "2025-11-18"}
+{"id": "NOTIF_b5c57602", "role": "all", "pesan": "haha", "tanggal": "2025-11-18"}
+{"id": "NOTIF_ea2bdc", "role": "all", "pesan": "haha", "tanggal": "2025-11-19"}
+{"id": "NOTIF_874d2d", "role": "all", "pesan": "HAHA", "tanggal": "2025-11-19"}
+{"id": "NOTIF_1", "role": "dosen", "pesan": "Rapat dosen hari Jumat jam 13:00 di ruang R101.", "tanggal": "2025-11-20"}
+{"id": "NOTIF_2", "role": "dosen", "pesan": "Input nilai akhir semester paling lambat 30 November.", "tanggal": "2025-11-20"}
+{"id": "NOTIF_d2ee4a", "role": "dosen", "pesan": "Permintaan bimbingan TA dari mahasiswa J040325115 untuk dosen 234. Mohon review di menu dosen.", "tanggal": "2025-11-20"}
+{"id": "NOTIF_3d842d", "role": "mahasiswa", "pesan": "Pengajuan KRS Anda (J040325115) telah diterima oleh dosen.", "tanggal": "2025-11-20"}
+{"id": "NOTIF_b68843", "role": "dosen", "pesan": "Pengajuan KRS dari mahasiswa J040325115. Mohon review dan acc di menu dosen.", "tanggal": "2025-11-23"}
+{"id": "NOTIF_2b534c", "role": "all", "pesan": "haha", "tanggal": "2025-11-23"}

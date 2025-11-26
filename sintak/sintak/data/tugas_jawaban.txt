@@ -1,0 +1,2 @@
+{"id_tugas":"T1","nim":"J040325115","jawaban":"isi jawaban","waktu":"2025-11-20 12:30","nilai":"-"}
+{"id_tugas": "TUG_582ec6", "nim": "J040325115", "jawaban": "f", "waktu": "2025-11-23 22:20", "nilai": "-"}

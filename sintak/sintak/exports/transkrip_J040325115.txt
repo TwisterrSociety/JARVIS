@@ -1,0 +1,6 @@
+=== TRANSKRIP J040325115 ===
+1 | DASPROG | 95.0 | SKS:3
+1 | MATEMATIKA | 100.0 | SKS:3
+
+Total SKS: 6
+IPK   : 97.5

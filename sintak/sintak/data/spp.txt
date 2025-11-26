@@ -1,0 +1,1 @@
+{"nim":"J040325115","nominal":17000000,"terbayar":17000000,"status":"Lunas"}

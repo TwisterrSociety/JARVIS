@@ -1,0 +1,2 @@
+{"id": "AR_f40864", "session_id": "ATT_c89fad", "nim": "J040325115", "mata_kuliah": "DASPROG", "status": "Hadir", "keterangan": "", "ts": "2025-11-24T03:57:40"}
+{"id": "AR_20ac9c", "session_id": "ATT_93ee53", "nim": "J040325115", "mata_kuliah": "DASPROG", "status": "Hadir", "keterangan": "", "ts": "2025-11-24T03:58:45"}

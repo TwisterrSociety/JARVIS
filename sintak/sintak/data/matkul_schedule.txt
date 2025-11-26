@@ -1,0 +1,2 @@
+{"id": "SCH_c168a9", "kode": "DASPROG", "nama": "DASAR PEMROGRAMAN", "hari": "kamis", "jam": "15:00-16:00", "ruang": "701", "dosen_id": "234"}
+{"id": "SCH_ef6b2c", "kode": "DASPROG", "nama": "DASAR PEMROGRAMAN", "hari": "senin", "jam": "07:00", "ruang": "CB 701", "dosen_id": "234"}

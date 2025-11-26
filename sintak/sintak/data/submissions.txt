@@ -1,0 +1,3 @@
+{"id": "SUB_ab12", "tugas_id": "TUG_xxx", "nim": "J123", "content": "jawaban...", "submitted_at": "2025-11-20T12:00:00", "grade": "", "graded_by": ""}
+{"id": "SUB_e4c01a", "tugas_id": "TUG_582ec6", "nim": "J040325115", "content": "jawaban.txt", "submitted_at": "2025-11-20T20:34:04", "grade": "", "graded_by": "", "graded_at": ""}
+{"id": "SUB_003432", "tugas_id": "T1", "nim": "J040325115", "content": "s", "submitted_at": "2025-11-23T23:01:38", "grade": "100", "graded_by": "234", "graded_at": "2025-11-23T23:15:34", "grader_comment": ""}

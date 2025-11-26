@@ -1,0 +1,2 @@
+{"id": "KRS_c3b134", "nim": "J040325115", "mata_kuliah": ["DASPROG"], "tanggal": "2025-11-20", "status": "Diterima"}
+{"id": "KRS_c6bd86", "nim": "J040325115", "mata_kuliah": ["DASPROG"], "tanggal": "2025-11-23", "status": "Diajukan"}

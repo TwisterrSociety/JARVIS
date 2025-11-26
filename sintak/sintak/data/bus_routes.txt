@@ -1,0 +1,1 @@
+{"id": "BUS_aa34db", "from": "Dramaga", "to": "Tajur", "departure": "20:00", "arrival": "21:00", "status": "OnTime"}

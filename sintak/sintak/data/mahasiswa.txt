@@ -1,0 +1,2 @@
+{"nim": "J040325115", "nama": "RDZQ BADARUDDIN", "kelas": "TPL B1", "jurusan": "TRPL"}
+{"nim": "J0403251032", "nama": "SAMUEL", "kelas": "TPL B2", "jurusan": "TPL"}

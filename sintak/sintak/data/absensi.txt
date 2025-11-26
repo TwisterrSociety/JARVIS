@@ -1,0 +1,2 @@
+{"nim": "J040325115", "mata_kuliah": "DASPROG", "tanggal": "2025-11-19", "status": "Alpha", "keterangan": "Ada"}
+{"nim": "012543", "mata_kuliah": "DASPROG", "tanggal": "2025-11-19", "status": "Hadir", "keterangan": "Ada"}

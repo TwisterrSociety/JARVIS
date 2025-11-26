@@ -1,0 +1,4 @@
+{"username": "admin123", "password": "admin123", "role": "admin", "identitas": "admin"}
+{"username": "234", "password": "dosenDasprogPR", "role": "dosen", "identitas": "234"}
+{"username": "J040325115", "password": "1ac163f5", "role": "mahasiswa", "identitas": "J040325115"}
+{"username": "J0403251032", "password": "f75b31fb", "role": "mahasiswa", "identitas": "J0403251032"}

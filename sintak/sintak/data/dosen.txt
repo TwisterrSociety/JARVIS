@@ -1,0 +1,2 @@
+{"id": "234", "nama": "Pak Andi", "mata_kuliah": ["DASPROG", "MATEMATIKA"]}
+    

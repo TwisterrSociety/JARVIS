@@ -1,0 +1,2 @@
+{"kode": "DASPROG", "nama": "DASAR PEMROGRAMAN", "assigned_dosen": ["0511"]}
+{"kode": "BEKOM", "nama": "Berpikir Komputasional"}
